@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1650949019 source:e:\motngaynaodo\linhx\hangman\hangman.cpp
+	<bits/stdc++.h>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	"init.h"
+	"util.h"
+	"game.h"
+
+1650939789 e:\motngaynaodo\linhx\hangman\init.h
+
+1646745953 e:\motngaynaodo\linhx\hangman\util.h
+	<SDL.h>
+	<string>
+
+1648383812 source:e:\motngaynaodo\linhx\hangman\util.cpp
+	<SDL.h>
+	<iostream>
+
+1650943889 source:e:\motngaynaodo\linhx\hangman\init.cpp
+	<bits/stdc++.h>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	"util.h"
+	"init.h"
+
+1650121224 e:\motngaynaodo\linhx\hangman\game.h
+
+1650263215 source:e:\motngaynaodo\linhx\hangman\game.cpp
+	<bits/stdc++.h>
+	<cstdlib>
+	<ctime>
+	<SDL.h>
+	"util.h"
+	"init.h"
+
